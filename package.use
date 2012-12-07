@@ -12,3 +12,4 @@ media-libs/mesa -xorg
 #required by app-emulation/virtualbox-4.1.22[-headless], required by @selected, required by @world (argument)
 >=media-libs/libsdl-1.2.15-r2 X
 =media-gfx/imagemagick-6.7.8.7 png
+=sys-libs/zlib-1.2.6 minizip
