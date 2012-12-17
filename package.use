@@ -2,4 +2,4 @@
 =app-text/poppler-0.20.4 cairo
 #required by gnome-base/gvfs-1.12.3[udev], required by xfce-base/thunar-1.4.0[dbus,xfce_plugins_trash], required by thunar (argument)
 >=virtual/udev-171 gudev
->=net-misc/cfengine tokyocabinet
+=net-misc/cfengine-3.3.9 !qdbm,tokyocabinet
