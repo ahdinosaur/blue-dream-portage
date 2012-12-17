@@ -5,4 +5,4 @@
 =dev-vcs/git-flow-completion-0.4.1.0 ~amd64
 #required by gitflow (argument)
 =dev-vcs/gitflow-0.4.1 ~amd64
-=net-misc/cfengine-3.3.9 ~amd64
+net-misc/cfengine ~amd64
