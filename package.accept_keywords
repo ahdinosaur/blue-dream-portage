@@ -1,1 +1,7 @@
 =dev-lua/luarocks-2.0.8 ~amd64
+#required by dev-vcs/gitflow-0.4.1, required by dev-vcs/git-flow-completion-0.4.1.0
+=dev-libs/shflags-1.0.3 ~amd64
+#required by dev-vcs/gitflow-0.4.1[completion], required by gitflow (argument)
+=dev-vcs/git-flow-completion-0.4.1.0 ~amd64
+#required by gitflow (argument)
+=dev-vcs/gitflow-0.4.1 ~amd64
