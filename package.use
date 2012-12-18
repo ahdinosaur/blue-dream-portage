@@ -1,2 +1,4 @@
-=sys-libs/zlib-1.2.6 minizip
-=app-text/poppler-0.20.4 cairo
+sys-libs/zlib minizip
+app-text/poppler cairo
+net-libs/ptlib wav
+net-libs/opal sip
