@@ -3,3 +3,4 @@ app-text/poppler cairo
 net-libs/ptlib wav
 net-libs/opal sip
 >=virtual/udev-171 gudev
+net-misc/cfengine3 -qdbm
