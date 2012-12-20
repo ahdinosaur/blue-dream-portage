@@ -1,4 +1,2 @@
-#required by app-emulation/virtualbox-4.1.22[additions], required by virtualbox (argument)
-=app-emulation/virtualbox-additions-4.1.22 PUEL
-#required by adobe-flash (argument)
->=www-plugins/adobe-flash-11.2.202.258 AdobeFlash-10.3
+app-emulation/virtualbox-additions PUEL
+www-plugins/adobe-flash AdobeFlash-10.3
