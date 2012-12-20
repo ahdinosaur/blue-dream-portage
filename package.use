@@ -2,5 +2,6 @@ sys-libs/zlib minizip
 app-text/poppler cairo
 net-libs/ptlib wav
 net-libs/opal sip sipim
->=virtual/udev-171 gudev
+virtual/udev gudev
 net-misc/cfengine -qdbm
+app-office/libreoffice gtk
