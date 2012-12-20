@@ -1,6 +1,6 @@
 sys-libs/zlib minizip
 app-text/poppler cairo
 net-libs/ptlib wav
-net-libs/opal sip
+net-libs/opal sip sipim
 >=virtual/udev-171 gudev
 net-misc/cfengine -qdbm
