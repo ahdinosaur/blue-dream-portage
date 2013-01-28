@@ -1,0 +1,5 @@
+#required by pooler-cpuminer (argument)
+=net-misc/pooler-cpuminer-2.2.3-r1 **
+#required by skype (argument)
+=net-im/skype-4.1.0.20 ~amd64
+=dev-libs/glib-2.34.3 ~amd64

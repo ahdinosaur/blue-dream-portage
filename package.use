@@ -5,3 +5,5 @@ net-libs/opal sip sipim
 virtual/udev gudev
 net-misc/cfengine -qdbm
 app-office/libreoffice gtk
+net-voip/ekiga v4l
+net-libs/ptlib v4l
